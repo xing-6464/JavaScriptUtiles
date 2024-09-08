@@ -1,0 +1,14 @@
+{
+  "name": "javascriptutiles",
+  "version": "1.0.0",
+  "main": "main.ts",
+  "scripts": {
+    "test": "tsx watch main.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tsx": "^4.19.0"
+  }
+}
